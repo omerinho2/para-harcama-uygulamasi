@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "title": "sakız",
+        "price": 0.5,
+        "image": "https://st1.myideasoft.com/idea/gb/84/myassets/products/750/07124246-d2f705-1650x1650-removebg-preview.png?revision=1678437386"
+    },
+    {
+        "id": 2,
+        "title": "kola",
+        "price": 6,
+        "image": "https://cdn.metro-group.com/tr/tr_pim_387538001002_01.png?format=jpg&quality=50&w=594&h=594&bgcolor=white"
+    },   
+    {
+        "id": 3,
+        "title": "jimnastik",
+        "price": 40,
+        "image": "https://contents.mediadecathlon.com/p2177448/k$4e77c6c02feb4481c8b36f46372531f0/sq/8582626.jpg?format=auto&f=800x0"
+    },
+    {
+        "id": 4,
+        "title": "uyuşturcu",
+        "price": 200,
+        "image": "https://galeri12.uludagsozluk.com/563/gelmis-gecmis-en-mukemmel-kurtlar-vadisi-karakteri_653902_m.jpg"
+    },
+    {
+        "id": 5,
+        "title": "ayakkabı",
+        "price": 400,
+        "image": "https://www.kombincim.com/image/img_thump/1/philipp-plein-erkek-ayakkabisi1599494148.jpg"
+    },
+    {
+        "id": 6,
+        "title": "plastation",
+        "price": 444,
+        "image": "https://sharafstore.com/web/image/product.template/1345/image_1024?unique=ba05d6b"
+    },
+    {
+        "id": 7,
+        "title": "Xbox",
+        "price": 450,
+        "image": "https://productimages.hepsiburada.net/s/128/1500/110000078637701.jpg"
+    },
+      {
+        "id": 8,
+        "title": "akıllı saat",
+        "price": 500,
+        "image": "https://img.pccomponentes.com/articles/1058/10581494/7705-apple-watch-series-8-gps-cellular-41mm-caja-de-acero-inoxidable-plata-con-correa-deportiva-blanca-review.jpg"
+    },
+    {
+        "id": 9,
+        "title": "tablet",
+        "price": 700,
+        "image": "https://productimages.hepsiburada.net/s/74/375/110000016334827.jpg"
+    },
+     {
+        "id": 10,
+        "title": "keleş",
+        "price": 1000,
+        "image": "https://media.phenixairsoft.com/49491-large_default/akm-bois-metal-dboy.jpg"
+    },
+    {
+        "id": 11,
+        "title": "telefon",
+        "price": 1400,
+        "image": "https://www.neoldu.com/d/other/1-iphone-14-pro-max.webp"
+    },  
+     {
+        "id": 12,
+        "title": "laptap",
+        "price": 1500,
+        "image": "https://www.adorama.com/images/Large/acmnw93llaak.jpg"
+    },
+    {
+        "id": 13,
+        "title": "kiralık katil",
+        "price": 1999,
+        "image": "https://i1.sndcdn.com/artworks-000043107726-9updsg-t500x500.jpg"
+    }, 
+    {
+        "id": 14,
+        "title": "bilisayar",
+        "price": 3000,
+        "image": "https://iis-akakce.akamaized.net/p.x?%2F%2Fcdn%2Edsmcdn%2Ecom%2Fty430%2Fproduct%2Fmedia%2Fimages%2F20220512%2F11%2F109772560%2F455359289%2F1%2F1%5Forg%5Fzoom%2Ejpg"
+    },
+    {
+        "id": 15,
+        "title": "domaldo",
+        "price": 200000,
+        "image": "https://www.aljazeera.com/wp-content/uploads/2023/01/AP23003640154510.jpg?resize=1800%2C1800"
+    }, 
+    {
+        "id": 16,
+        "title": "e-spor takımı",
+        "price": 2000000,
+        "image": "https://cdn.bynogame.com/images/1653129492165.webp"
+    },
+    {
+        "id": 17,
+        "title": "araba",
+        "price": 2500000,
+        "image": "https://cdn.pixabay.com/photo/2017/04/06/22/11/car-2209439_640.png"
+    },
+    {
+        "id": 18,
+        "title": "kumarhane",
+        "price": 4000000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3G1UY8y4tX5r4Rd9BfpVTkY0Xlq5euLXEA&usqp=CAU"
+    },
+    
+  
+    {
+        "id": 19,
+        "title": "gemi",
+        "price": 10000000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhaBSeJPbCr9D7X5L7B_JEbJD-wi0F4dWfGQ&usqp=CAU"
+    }, 
+    {
+        "id": 20,
+        "title": "uçak",
+        "price": 12000000,
+        "image": "https://i.sozcucdn.com/wp-content/uploads/2023/04/28/depophotos_17696257.jpeg?w=900&h=900&mode=crop&scale=both"
+    },
+    {
+        "id": 21,
+        "title": "savaş uçağı",
+        "price": 19000000,
+        "image": "https://www.endustripatent.com.tr/38958/picture_1-Elmas-Nak%C4%B1%C5%9F-U%C3%A7ak-Jet-Fighter-Resimleri-Rhinestones/pictures.jpeg"
+    },
+    {
+        "id": 22,
+        "title": "banka",
+        "price": 20000000,
+        "image": "https://im.haberturk.com/2022/10/07/3527096_b71dc9a2d32235e020bfc373f633d476_640x640.jpg"
+    },
+   
+    {
+        "id": 23,
+        "title": "TAŞŞAK",
+        "price":  275000000000,
+        "image": "https://pbs.twimg.com/profile_images/561324235818168320/hgg6EJaS_400x400.jpeg"
+    },
+     {
+        "id": 24,
+        "title": "MESSİ",
+        "price": 999999999999999,
+        "image": "https://medyascope.tv/wp-content/uploads/2022/12/image-2-22-750x750.png"
+    }
+]
